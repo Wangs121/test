@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 啊啊啊
 Added in test4
 add again after commit test branch
 success and add after push
+=======
+aaa
+for rebase test
+>>>>>>> rebase test
