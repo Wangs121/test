@@ -14,3 +14,6 @@ test9: pull remote branch
 
 test10: 合并或丢弃工作
 
+test11:add by master
+test11:stash add
+
