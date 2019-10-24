@@ -1,2 +1,4 @@
 stash test apply\drop
 test stash with comment and merge
+add before apply
+apply and merge
